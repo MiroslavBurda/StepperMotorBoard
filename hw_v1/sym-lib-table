@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Zakladni_deska_II-rescue)(type Legacy)(uri ${KIPRJMOD}/Zakladni_deska_II-rescue.lib)(options "")(descr ""))
+  (lib (name NCE20P45Q)(type Legacy)(uri ${KIPRJMOD}/NCE20P45Q.lib)(options "")(descr ""))
+)
